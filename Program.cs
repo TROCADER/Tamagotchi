@@ -7,6 +7,8 @@ namespace Tamagotchi
         static void Main(string[] args)
         {
             Tamagotchi tamagotchi = new Tamagotchi();
+
+            Console.ReadLine();
         }
     }
 }
